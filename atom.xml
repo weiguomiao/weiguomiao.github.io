@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Weigm</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-12-01T10:02:16.782Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Guomiao Wei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>错误,安装</title>
+    <link href="http://yoursite.com/2018/12/01/%E9%94%99%E8%AF%AF-%E5%AE%89%E8%A3%85/"/>
+    <id>http://yoursite.com/2018/12/01/错误-安装/</id>
+    <published>2018-12-01T09:21:33.000Z</published>
+    <updated>2018-12-01T10:02:16.782Z</updated>
+    
+    <content type="html"><![CDATA[<p>#搭建过程中遇到的问题</p><p>####作者：weigm<br>-本文参考的是<a href="https://www.cnblogs.com/fengxiongZz/p/7707219.html" target="_blank" rel="noopener">https://www.cnblogs.com/fengxiongZz/p/7707219.html</a><br>-在运行$ git config –global user.anme”自己在GitHub上的命名”<br>-在GitHub上创建名字时要与GitHub账号的名字相同，否则之后的运行中会出错。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#搭建过程中遇到的问题&lt;/p&gt;
+&lt;p&gt;####作者：weigm&lt;br&gt;-本文参考的是&lt;a href=&quot;https://www.cnblogs.com/fengxiongZz/p/7707219.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;htt
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>second,hello</title>
+    <link href="http://yoursite.com/2018/12/01/second-hello/"/>
+    <id>http://yoursite.com/2018/12/01/second-hello/</id>
+    <published>2018-12-01T08:45:16.000Z</published>
+    <updated>2018-12-01T08:45:16.575Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello He</title>
+    <link href="http://yoursite.com/2018/11/30/Hello-He/"/>
+    <id>http://yoursite.com/2018/11/30/Hello-He/</id>
+    <published>2018-11-30T13:05:15.000Z</published>
+    <updated>2018-11-30T13:07:41.482Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="this-is-headline-1"><a href="#this-is-headline-1" class="headerlink" title="this is headline 1"></a>this is headline 1</h1><p>may be something you can writt in there also can using markdown format .<br>thanks.</p><ul><li>list </li><li>list2</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;this-is-headline-1&quot;&gt;&lt;a href=&quot;#this-is-headline-1&quot; class=&quot;headerlink&quot; title=&quot;this is headline 1&quot;&gt;&lt;/a&gt;this is headline 1&lt;/h1&gt;&lt;p&gt;may be
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello,hexo</title>
+    <link href="http://yoursite.com/2018/11/30/Hello-hexo/"/>
+    <id>http://yoursite.com/2018/11/30/Hello-hexo/</id>
+    <published>2018-11-30T11:37:38.000Z</published>
+    <updated>2018-11-30T11:37:38.372Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post title</title>
+    <link href="http://yoursite.com/2018/11/30/post-title/"/>
+    <id>http://yoursite.com/2018/11/30/post-title/</id>
+    <published>2018-11-30T11:10:08.000Z</published>
+    <updated>2018-11-30T11:10:08.260Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/11/30/hello-world/"/>
+    <id>http://yoursite.com/2018/11/30/hello-world/</id>
+    <published>2018-11-30T10:59:13.079Z</published>
+    <updated>2018-11-30T10:59:13.079Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
