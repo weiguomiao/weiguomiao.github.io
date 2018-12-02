@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/blog/"/>
-  <updated>2018-12-01T10:02:16.782Z</updated>
+  <updated>2018-12-02T14:13:29.149Z</updated>
   <id>http://yoursite.com/blog/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/blog/2018/12/01/%E9%94%99%E8%AF%AF-%E5%AE%89%E8%A3%85/"/>
     <id>http://yoursite.com/blog/2018/12/01/错误-安装/</id>
     <published>2018-12-01T09:21:33.000Z</published>
-    <updated>2018-12-01T10:02:16.782Z</updated>
+    <updated>2018-12-02T14:13:29.149Z</updated>
     
     <content type="html"><![CDATA[<p>#搭建过程中遇到的问题</p><p>####作者：weigm<br>-本文参考的是<a href="https://www.cnblogs.com/fengxiongZz/p/7707219.html" target="_blank" rel="noopener">https://www.cnblogs.com/fengxiongZz/p/7707219.html</a><br>-在运行$ git config –global user.anme”自己在GitHub上的命名”<br>-在GitHub上创建名字时要与GitHub账号的名字相同，否则之后的运行中会出错。</p>]]></content>
     
